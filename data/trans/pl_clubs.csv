@@ -1,21 +1,3 @@
-club_id,club_code,name
-148,tottenham-hotspur,Tottenham Hotspur
-989,afc-bournemouth,Association Bournemouth
-31,fc-liverpool,Liverpool
-1003,leicester-city,Leicester City
-1237,brighton-amp-hove-albion,Brighton and Hove Albion
-703,nottingham-forest,Nottingham Forest
-762,newcastle-united,Newcastle United
-1148,fc-brentford,Brentford
-873,crystal-palace,Crystal Palace
-379,west-ham-united,West Ham United
-931,fc-fulham,Fulham
-677,ipswich-town,Ipswich Town
-985,manchester-united,Manchester United
-11,fc-arsenal,Arsenal
-281,manchester-city,Manchester City
-405,aston-villa,Aston Villa
-543,wolverhampton-wanderers,Wolverhampton Wanderers
-180,fc-southampton,Southampton
-631,fc-chelsea,Chelsea
-29,fc-everton,Everton
+version https://git-lfs.github.com/spec/v1
+oid sha256:f85848eb51892f6244aa155e2881c4630a160087244d93bed4344f2cdc9a053d
+size 704
